@@ -92,4 +92,4 @@ $resultado = $conexion->query("SELECT * FROM libros ORDER BY id DESC");
     <script src="script.js"></script>
 </body>
 </html>
-<?php $conexion->close(); ?>
+<?php $conexion->close(); ?>    
