@@ -31,7 +31,12 @@ correo: <davidvasquezlova@gmail.com>
 * `styles.css` — Hoja de estilos responsiva con diseño basado en tarjetas y tabla dinámica.
 
 ```bash
-git init
-git status
-git add .
-git commit -m "Sistema de Control de Biblioteca terminado"
+let n = "Juan";
+function p(a) {
+return a >= 18;
+}
+Bien
+let nombreUsuario = "Juan";
+function esMayorDeEdad(edadUsuario) {
+return edadUsuario >= 18;
+}
