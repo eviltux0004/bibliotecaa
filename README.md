@@ -29,8 +29,9 @@ correo: <davidvasquezlova@gmail.com>
 * `cambiarEstado.php` — Alterna el estado de disponibilidad del libro (`1` Disponible / `0` Prestado).
 * `script.js` — Valida los campos del formulario y la longitud del ISBN antes del envío.
 * `styles.css` — Hoja de estilos responsiva con diseño basado en tarjetas y tabla dinámica.
-
+Codigos
 ```bash
+mal
 let n = "Juan";
 function p(a) {
 return a >= 18;
