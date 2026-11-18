@@ -30,6 +30,9 @@ correo: <davidvasquezlova@gmail.com>
 * `script.js` — Valida los campos del formulario y la longitud del ISBN antes del envío.
 * `styles.css` — Hoja de estilos responsiva con diseño basado en tarjetas y tabla dinámica.
 Codigos
+---
+18/11/2026
+---
 ```bash
 mal
 let n = "Juan";
