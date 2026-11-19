@@ -5,7 +5,7 @@
 ~~HECHA POR: DAVID LORENZO VASQUEZ~~
 ---
 _GESTIÓN DE INVENTARIO Y PRÉSTAMOS DE LIBROS_
-[REPOSITORIO / DEMO EN LÍNEA](http://biblioteca01.atwebpages.com/index.php)
+[link de la pagina](http://biblioteca01.atwebpages.com/index.php)
 correo: <davidvasquezlova@gmail.com>
 
 ![Sistema de Control de Biblioteca](https://media.istockphoto.com/id/854284070/es/foto/port%C3%A1til-con-biblioteca.jpg?s=612x612&w=0&k=20&c=MgZL9uMqYvBJoOCEqduQJBPT4Wftg9lNNxoIDQRRzqE=)
@@ -29,9 +29,18 @@ correo: <davidvasquezlova@gmail.com>
 * `cambiarEstado.php` — Alterna el estado de disponibilidad del libro (`1` Disponible / `0` Prestado).
 * `script.js` — Valida los campos del formulario y la longitud del ISBN antes del envío.
 * `styles.css` — Hoja de estilos responsiva con diseño basado en tarjetas y tabla dinámica.
-
+Codigos
+---
+18/11/2026
+---
 ```bash
-git init
-git status
-git add .
-git commit -m "Sistema de Control de Biblioteca terminado"
+mal
+let n = "Juan";
+function p(a) {
+return a >= 18;
+}
+Bien
+let nombreUsuario = "Juan";
+function esMayorDeEdad(edadUsuario) {
+return edadUsuario >= 18;
+}
