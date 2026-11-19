@@ -5,7 +5,7 @@
 ~~HECHA POR: DAVID LORENZO VASQUEZ~~
 ---
 _GESTIÓN DE INVENTARIO Y PRÉSTAMOS DE LIBROS_
-[REPOSITORIO / DEMO EN LÍNEA](http://biblioteca01.atwebpages.com/index.php)
+[link de la pagina](http://biblioteca01.atwebpages.com/index.php)
 correo: <davidvasquezlova@gmail.com>
 
 ![Sistema de Control de Biblioteca](https://media.istockphoto.com/id/854284070/es/foto/port%C3%A1til-con-biblioteca.jpg?s=612x612&w=0&k=20&c=MgZL9uMqYvBJoOCEqduQJBPT4Wftg9lNNxoIDQRRzqE=)
